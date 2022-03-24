@@ -2,17 +2,19 @@
 
 REST.API 구현 파일입니다.
 
-사용된 라이브러리  
+####사용된 라이브러리  
+
 pandas==1.1.5  
 torch==1.9.0  
 transformers==4.15.0  
 Flask==2.0.1  
 
-모듈  
+####모듈  
 
 입력 문장의 전처리 과정과 model, tokenizer 정의부분을 클래스화, 함수화 하여 작성하였습니다.
 
-사용 순서
+####사용 순서  
+
 1. local에서 conda 환경설정을 합니다. (conda create -n '환경이름' python=3.6)
 2. conda를 실행합니다.
 3. pip install -r requirements.txt를 실행하여 필요한 라이브러리를 설치합니다.
