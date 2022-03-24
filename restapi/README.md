@@ -3,10 +3,10 @@
 REST.API 구현 파일입니다.
 
 사용된 라이브러리
-pandas==1.1.5
-torch==1.9.0
-transformers==4.15.0
-Flask==2.0.1
+pandas==1.1.5  
+torch==1.9.0  
+transformers==4.15.0  
+Flask==2.0.1  
 
 사용 순서
 1. local에서 conda 환경설정을 합니다. (conda create -n '환경이름' python=3.6)
